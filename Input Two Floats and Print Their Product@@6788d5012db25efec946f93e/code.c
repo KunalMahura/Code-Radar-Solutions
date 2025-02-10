@@ -2,9 +2,9 @@
 
 
 int main(){
-    int a,b;
+    float a,b;
     scanf("%.2f%.2f",&a,&b);
-    int c = a*b;
+    float c = a*b;
     printf("Product: %.2f",c);
     return 0;
 
