@@ -5,7 +5,7 @@ int main(){
     if(a>=0 && b<=0){
         printf("True");
     }
-    else if(a>=0 || b<=0){
+    else if(b>=0 || b<=a){
         printf("False");
     }
     return 0;
