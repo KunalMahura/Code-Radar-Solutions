@@ -3,6 +3,6 @@
 int main(){
     int a,b;
     scanf("%d%d", &a, &b);
-    if((a<0 && 0>b)?"True":"False");
+    printf("%s"(a<0 && 0>b)?"True":"False");
     return 0;
 }
