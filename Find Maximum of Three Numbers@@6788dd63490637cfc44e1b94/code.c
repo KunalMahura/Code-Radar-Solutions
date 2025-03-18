@@ -4,7 +4,7 @@ int main() {
     int a, b, c;
     
     // Taking input
-    printf("Enter three numbers: ");
+   
     scanf("%d %d %d", &a, &b, &c);
 
     // Checking which number is the largest
