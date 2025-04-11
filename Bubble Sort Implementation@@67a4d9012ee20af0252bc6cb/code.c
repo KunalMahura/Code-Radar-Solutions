@@ -10,4 +10,4 @@ void bubbleSort(int arr[], int n){
         }
     }
 }
-void printArray(arr, n);
+void printArray(arr[], n);
